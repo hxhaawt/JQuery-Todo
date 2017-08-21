@@ -74,6 +74,7 @@
                 width: 300,
                 height: 'auto',
                 padding: '15px 10px',
+                marging: '0 auto',
                 background: '#fff',
                 position: 'fixed',
                 'border-radius': 3,
